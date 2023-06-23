@@ -1,0 +1,7 @@
+create table member (
+	num int auto_increment primary key,
+    myname varchar(20),
+    mypass varchar(20),
+    myaddress varchar(200),
+    gaipday datetime
+);
