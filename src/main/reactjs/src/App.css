@@ -41,7 +41,7 @@ ul.menu li a:hover{
 
 div.login{
   margin:100px 100px;
-  border: 5px solid gray;
+  border: 3px solid gray;
   width:320px;
-  border-radius: 10px;
+  border-radius: 5px;
 }

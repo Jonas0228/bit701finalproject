@@ -1,0 +1,9 @@
+create table reactboard (
+	num int auto_increment primary key,
+    myid varchar(20),
+    myname varchar(20),
+    photo varchar(100),
+    subject varchar(300),
+    content varchar(1000),
+    readcount int default 0,
+    writeday datetime);
